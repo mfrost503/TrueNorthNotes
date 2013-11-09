@@ -98,7 +98,7 @@
 * Build domain separately and test that
 * Be more conscious and consistent with design efforts
 * Better software is the result.
-
-
-
-
+* Continuous Improvement for continued sanity
+* Master your tools and feedback cycle
+* Solve problems
+* Most code problems are design problems
